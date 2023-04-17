@@ -1,2 +1,1 @@
-# DisparityMap
-# Minimax
+# Minimax + Zobrist hash + Alpha beta pruning
