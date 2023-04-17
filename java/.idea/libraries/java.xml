@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AIAlgorithm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Demo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
