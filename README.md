@@ -1,1 +1,2 @@
 # DisparityMap
+# Minimax
